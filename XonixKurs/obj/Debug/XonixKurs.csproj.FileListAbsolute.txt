@@ -1,0 +1,12 @@
+C:\Users\Pavilion\source\repos\XonixKurs\XonixKurs\bin\Debug\XonixKurs.exe.config
+C:\Users\Pavilion\source\repos\XonixKurs\XonixKurs\bin\Debug\XonixKurs.exe
+C:\Users\Pavilion\source\repos\XonixKurs\XonixKurs\bin\Debug\XonixKurs.pdb
+C:\Users\Pavilion\source\repos\XonixKurs\XonixKurs\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Pavilion\source\repos\XonixKurs\XonixKurs\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Pavilion\source\repos\XonixKurs\XonixKurs\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Pavilion\source\repos\XonixKurs\XonixKurs\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Pavilion\source\repos\XonixKurs\XonixKurs\obj\Debug\XonixKurs.csprojAssemblyReference.cache
+C:\Users\Pavilion\source\repos\XonixKurs\XonixKurs\obj\Debug\XonixKurs.csproj.CoreCompileInputs.cache
+C:\Users\Pavilion\source\repos\XonixKurs\XonixKurs\obj\Debug\XonixKurs.csproj.CopyComplete
+C:\Users\Pavilion\source\repos\XonixKurs\XonixKurs\obj\Debug\XonixKurs.exe
+C:\Users\Pavilion\source\repos\XonixKurs\XonixKurs\obj\Debug\XonixKurs.pdb
